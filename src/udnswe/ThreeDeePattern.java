@@ -11,6 +11,7 @@ public class ThreeDeePattern {
 	}
 	
 	// drawPattern is a super cool method woo
+	// whoah here's another comment
 	public void drawPattern() {
 		writeTo.print("\n");
 		writeTo.print("/design{\nnewpath\n10 neg unit 10 mul moveto\n");
